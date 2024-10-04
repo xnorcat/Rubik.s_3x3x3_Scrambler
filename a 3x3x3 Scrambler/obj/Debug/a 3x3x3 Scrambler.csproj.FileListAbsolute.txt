@@ -1,0 +1,5 @@
+C:\Users\mrhitj\Documents\Csharp\Program\a 3x3x3 Scrambler\a 3x3x3 Scrambler\obj\Debug\a 3x3x3 Scrambler.csprojResolveAssemblyReference.cache
+C:\Users\mrhitj\Documents\Csharp\Program\a 3x3x3 Scrambler\a 3x3x3 Scrambler\bin\Debug\a3x3x3Scrambler.exe
+C:\Users\mrhitj\Documents\Csharp\Program\a 3x3x3 Scrambler\a 3x3x3 Scrambler\bin\Debug\a3x3x3Scrambler.pdb
+C:\Users\mrhitj\Documents\Csharp\Program\a 3x3x3 Scrambler\a 3x3x3 Scrambler\obj\Debug\a3x3x3Scrambler.exe
+C:\Users\mrhitj\Documents\Csharp\Program\a 3x3x3 Scrambler\a 3x3x3 Scrambler\obj\Debug\a3x3x3Scrambler.pdb
